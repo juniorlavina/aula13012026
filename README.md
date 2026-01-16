@@ -149,6 +149,6 @@ Este material é de uso educacional para a disciplina de Tecnologias Empresariai
 
 ---
 
-**Autor:** Sistema  
+**Autor:** Prof. Luis Vitorino - IFPI  
 **Data:** 13 de janeiro de 2026  
 **Versão:** 1.0.0
